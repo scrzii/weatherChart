@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\bin\Debug\WeatherChart.exe.config
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\bin\Debug\WeatherChart.exe
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\bin\Debug\WeatherChart.pdb
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\obj\Debug\WeatherChart.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\obj\Debug\WeatherChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\obj\Debug\WeatherChart.Form1.resources
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\obj\Debug\WeatherChart.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\obj\Debug\WeatherChart.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\obj\Debug\WeatherChart.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\obj\Debug\WeatherChart.exe
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\obj\Debug\WeatherChart.pdb
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Пользователь\source\repos\WeatherChart\WeatherChart\obj\Debug\WeatherChart.csproj.CopyComplete
